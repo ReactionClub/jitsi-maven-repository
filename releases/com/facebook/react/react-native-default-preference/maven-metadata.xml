@@ -3,11 +3,12 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-default-preference</artifactId>
   <versioning>
-    <latest>1.4.2-jitsi-5810539</latest>
-    <release>1.4.2-jitsi-5810539</release>
+    <latest>1.4.2-jitsi-5810905</latest>
+    <release>1.4.2-jitsi-5810905</release>
     <versions>
       <version>1.4.2-jitsi-5810539</version>
+      <version>1.4.2-jitsi-5810905</version>
     </versions>
-    <lastUpdated>20201103112315</lastUpdated>
+    <lastUpdated>20201103122414</lastUpdated>
   </versioning>
 </metadata>
