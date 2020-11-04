@@ -4,11 +4,13 @@
   <artifactId>react-native-google-signin</artifactId>
   <versioning>
     <latest>3.0.1-jitsi-5810905</latest>
-    <release>3.0.1-jitsi-5810905</release>
+    <release>3.0.1-jitsi-5819552</release>
     <versions>
       <version>3.0.1-jitsi-5810539</version>
       <version>3.0.1-jitsi-5810905</version>
+      <version>3.0.1-jitsi-5819429</version>
+      <version>3.0.1-jitsi-5819552</version>
     </versions>
-    <lastUpdated>20201103122414</lastUpdated>
+    <lastUpdated>20201104122756</lastUpdated>
   </versioning>
 </metadata>
